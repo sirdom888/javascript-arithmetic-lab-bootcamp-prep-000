@@ -2,11 +2,11 @@ function add(a,b){
  return a + b;
 }
 
-function substract(a,b){
+function subtract(a,b){
   return a - b;
 }
 
-function multiple(a,b){
+function multiply(a,b){
   return a * b;
 }
 
