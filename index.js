@@ -18,3 +18,5 @@ function increment(n) {
   n++;
   return n;
 }
+
+function decrement(n) {
